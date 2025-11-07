@@ -7,11 +7,11 @@ En él se registran las principales tareas, fechas tentativas, responsables y en
 
 | Nº | Actividad | Fecha tentativa | Responsable | Entregable |
 |----|------------|------------------|--------------|-------------|
-| 1 | Levantamiento de requisitos y definición de funcionalidades | 7 - 8 Nov 2025 | Juan Eduardo Díaz Martínez | Documento de requisitos del sistema |
-| 2 | Diseño de interfaz y arquitectura del sistema web | 9 - 10 Nov 2025 | Juan Eduardo Díaz Martínez | Diagramas UML y mockups de interfaz |
-| 3 | Desarrollo del frontend con React.js | 11 - 13 Nov 2025 | Juan Eduardo Díaz Martínez | Prototipo funcional de la interfaz web |
-| 4 | Implementación del backend con Node.js y MongoDB | 14 - 16 Nov 2025 | Juan Eduardo Díaz Martínez | API funcional conectada a la base de datos |
-| 5 | Pruebas de funcionamiento y despliegue del sitio | 17 - 18 Nov 2025 | Juan Eduardo Díaz Martínez | Sistema operativo en entorno de prueba y documentación técnica |
+| 1 | Levantamiento de requisitos y definición de funcionalidades | 7 - 8 Nov 2025 | Juan Eduardo Díaz Martínez | Documento con los requisitos funcionales y no funcionales del sistema |
+| 2 | Diseño de interfaz y arquitectura del sistema web | 9 - 10 Nov 2025 | Juan Eduardo Díaz Martínez | Diagramas UML, estructura de base de datos y diseño de interfaz web |
+| 3 | Desarrollo del frontend con React.js | 11 - 13 Nov 2025 | Juan Eduardo Díaz Martínez | Interfaz funcional desarrollada con React.js |
+| 4 | Implementación del backend con Node.js y MongoDB | 14 - 16 Nov 2025 | Juan Eduardo Díaz Martínez | API implementada con Node.js y conexión a base de datos MongoDB |
+| 5 | Pruebas de funcionamiento y despliegue del sitio | 17 - 18 Nov 2025 | Juan Eduardo Díaz Martínez | Sistema desplegado y documentado para entrega final |
 
 
 ---
