@@ -27,3 +27,11 @@ El uso de GitHub facilitó la trazabilidad, la documentación y la colaboración
 **Fecha de elaboración:** 7 de noviembre de 2025  
 **Rama:** `planeacion`  
 **Archivo:** `plan_de_actividades.md`
+
+---
+
+## ✅ Revisión final del plan
+
+El plan de actividades fue completado y ajustado según los requerimientos del proyecto.  
+Se definieron las fechas, los responsables y los entregables de cada fase.  
+Esta planeación servirá como guía para el desarrollo y seguimiento del sistema web.
