@@ -5,8 +5,6 @@ En él se registran las principales tareas, fechas tentativas, responsables y en
 
 ---
 
-## 🧩 Actividades principales del proyecto
-
 | Nº | Actividad | Fecha tentativa | Responsable | Entregable |
 |----|------------|------------------|--------------|-------------|
 | 1 | Levantamiento de requisitos y definición de funcionalidades | 7 - 8 Nov 2025 | Juan Eduardo Díaz Martínez | Documento de requisitos del sistema |
@@ -14,6 +12,7 @@ En él se registran las principales tareas, fechas tentativas, responsables y en
 | 3 | Desarrollo del frontend con React.js | 11 - 13 Nov 2025 | Juan Eduardo Díaz Martínez | Prototipo funcional de la interfaz web |
 | 4 | Implementación del backend con Node.js y MongoDB | 14 - 16 Nov 2025 | Juan Eduardo Díaz Martínez | API funcional conectada a la base de datos |
 | 5 | Pruebas de funcionamiento y despliegue del sitio | 17 - 18 Nov 2025 | Juan Eduardo Díaz Martínez | Sistema operativo en entorno de prueba y documentación técnica |
+
 
 ---
 
